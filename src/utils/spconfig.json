@@ -508,5 +508,76 @@
       "xv/xu",
       "yv/yu"
     ]
+  },
+  "易浏双拼": {
+    "keyMap": [
+      "q/ua,ian/q",
+      "w/vn,ei/w",
+      "e/e/",
+      "r/ou/r",
+      "t/iu/t",
+      "y/un/y",
+      "u/u/zh",
+      "i/i/ch",
+      "o/o,uo/sh",
+      "p/ie/p",
+      "a/a/zh",
+      "s/ao/s",
+      "d/an/d",
+      "f/ang/f",
+      "g/uai,ing/g",
+      "h/ai,ue/h",
+      "j/eng,van/j",
+      "k/en,ia/k",
+      "l/ong,iong/l",
+      ";//",
+      "z/uan/z",
+      "x/ve,uang/x",
+      "c/ian/c",
+      "v/ui,v/sh",
+      "b/in/b",
+      "n/ui,iang/n",
+      "m/iao/m"
+    ],
+    "zeroMap": [
+      "aa/a",
+      "ai/ai",
+      "an/an",
+      "ef/ang",
+      "ao/ao",
+      "ee/e",
+      "ei/ei",
+      "en/en",
+      "ej/eng",
+      "er/er",
+      "oo/o",
+      "ou/ou"
+    ],
+    "additionalMap": [
+      "jw/jun",
+      "qw/qun",
+      "xw/xun",
+      "yw/yun",
+      "jj/juan",
+      "qj/quan",
+      "xj/xuan",
+      "yj/yuan",
+      "jx/jue",
+      "qx/que",
+      "xx/xue",
+      "yx/yue",
+      "jv/ju",
+      "qv/qu",
+      "xv/xu",
+      "yv/yu"
+    ],
+    "excludingMap": [
+      "aa/zha",
+      "ai/zhi",
+      "an/zhui",
+      "ao/zhuo",
+      "ou/shu",
+      "oo/shuo"
+    ]
   }
 }
